@@ -5,9 +5,7 @@ Assetto Corsa free roam drift map recreating Essex Junction, Vermont.
 Download the track ZIP and optional feedback kit from [Releases](https://github.com/C3RX1/essex-vt-releases/releases).
 Install the track by dropping the ZIP into Content Manager. Custom Shaders Patch is required for the track's CSP features and street-name HUD.
 
-Server: `ac.thagarra.com`, game port `9600`, HTTP port `8081`.
-[Open the Content Manager invite](https://acstuff.club/s/q:race/online/join?ip=74.208.202.212&httpPort=8081).
-Ask the host privately for the join password. There are 24 Kunos base-game/DLC
+Ask the host privately for the server invite and join password. There are 24 Kunos base-game/DLC
 models, with two slots each. Install the DLC required by the car you choose.
 CSP 0.1.79 or newer provides named teleports and live paint selection in Chat's
 lightbulb/extras menu. Custom liveries can affect paint selection.
